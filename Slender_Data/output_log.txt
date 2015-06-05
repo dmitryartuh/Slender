@@ -1,0 +1,199 @@
+Initialize engine version: 4.1.2f1 (911c7369eeac)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 9.0c [igdumdim64.dll 10.18.10.3308]
+    Renderer: Intel(R) HD Graphics 4600
+    Vendor:   Intel
+    VRAM:     912 MB (via DXGI)
+    Caps:     Shader=30 DepthRT=1 NativeDepth=1 NativeShadow=1 DF16=1 DF24=1 INTZ=1 RAWZ=0 NULL=1 RESZ=1 SlowINTZ=0
+Begin MonoManager ReloadAssembly
+Platform assembly: J:\New folder (4)\Slender_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading J:\New folder (4)\Slender_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: J:\New folder (4)\Slender_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading J:\New folder (4)\Slender_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: J:\New folder (4)\Slender_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading J:\New folder (4)\Slender_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: J:\New folder (4)\Slender_Data\Managed\Assembly-UnityScript-firstpass.dll (this message is harmless)
+Loading J:\New folder (4)\Slender_Data\Managed\Assembly-UnityScript-firstpass.dll into Unity Child Domain
+Platform assembly: J:\New folder (4)\Slender_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
+Loading J:\New folder (4)\Slender_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
+- Completed reload, in  0.041 seconds
+<RI> Initializing input.
+<RI> Input initialized.
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+Platform assembly: J:\New folder (4)\Slender_Data\Managed\System.Core.dll (this message is harmless)
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1606)
+
+NewGame
+ 
+(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+NewGame
+ 
+(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1606)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1606)
+
+[mecanim]: BindSkeleton: cannot find Transform 'Plane01'
+ 
+(Filename:  Line: 1441)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 26 unused Assets to reduce memory usage. Loaded Objects now: 27452.
+Total: 4.838921 ms (FindLiveObjects: 1.242766 ms CreateObjectMapping: 0.108196 ms MarkObjects: 2.630508 ms  DeleteObjects: 0.362651 ms)
+
+Platform assembly: J:\New folder (4)\Slender_Data\Managed\Boo.Lang.dll (this message is harmless)
+Can not play a disabled audio source
+ 
+(Filename:  Line: 1458)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 1458)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 1458)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 1458)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 1458)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 1458)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 1458)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 1458)
+
+Player
+ 
+(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Player
+ 
+(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Player
+ 
+(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Page
+ 
+(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Page
+ 
+(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Page
+ 
+(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Platform assembly: J:\New folder (4)\Slender_Data\Managed\System.dll (this message is harmless)
+Can not play a disabled audio source
+ 
+(Filename:  Line: 1458)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 1458)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 1458)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 1458)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 1458)
+
+Place
+ 
+(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Place
+ 
+(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Place
+ 
+(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 1458)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 1458)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 1458)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 1458)
+
+Player
+ 
+(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Player
+ 
+(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Player
+ 
+(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 1458)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 1458)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 1458)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 1458)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 1458)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 1458)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 1458)
+
