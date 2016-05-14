@@ -1,0 +1,12 @@
+D:\курсач\obj\Debug\Assembly-CSharp-vs.csprojResolveAssemblyReference.cache
+D:\курсач\Temp\bin\Debug\Assembly-CSharp.dll
+D:\курсач\Temp\bin\Debug\Assembly-CSharp.pdb
+D:\курсач\Temp\bin\Debug\Assembly-UnityScript-firstpass.dll
+D:\курсач\Temp\bin\Debug\UnityEditor.dll
+D:\курсач\Temp\bin\Debug\UnityEngine.dll
+D:\курсач\Temp\bin\Debug\Mono.Cecil.dll
+D:\курсач\Temp\bin\Debug\nunit.framework.dll
+D:\курсач\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+D:\курсач\Temp\bin\Debug\Assembly-CSharp-firstpass.pdb
+D:\курсач\obj\Debug\Assembly-CSharp.dll
+D:\курсач\obj\Debug\Assembly-CSharp.pdb

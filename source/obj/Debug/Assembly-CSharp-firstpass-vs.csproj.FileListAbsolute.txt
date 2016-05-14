@@ -1,0 +1,10 @@
+D:\курсач\Temp\bin\Debug\Assembly-CSharp-firstpass.dll
+D:\курсач\Temp\bin\Debug\Assembly-CSharp-firstpass.pdb
+D:\курсач\Temp\bin\Debug\UnityEditor.dll
+D:\курсач\Temp\bin\Debug\UnityEngine.dll
+D:\курсач\Temp\bin\Debug\Mono.Cecil.dll
+D:\курсач\Temp\bin\Debug\nunit.framework.dll
+D:\курсач\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+D:\курсач\obj\Debug\Assembly-CSharp-firstpass.dll
+D:\курсач\obj\Debug\Assembly-CSharp-firstpass.pdb
+D:\курсач\obj\Debug\Assembly-CSharp-firstpass-vs.csprojResolveAssemblyReference.cache
